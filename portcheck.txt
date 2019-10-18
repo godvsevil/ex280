@@ -1,0 +1,10 @@
+# run on host machine 
+$ nc -v -ul 9000
+
+
+# run on another terminal of the same machine
+$ nc localhost -u 9000
+
+# run on other machine 
+$ nc publicip -u 9000
+
