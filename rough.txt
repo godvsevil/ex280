@@ -1,9 +1,0 @@
-# install aws-cli 
-  aws configure
-  
-# install boto 
-  set env
-
-# write script ec2.py
-               ec2.ini 
-# 
